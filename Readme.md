@@ -1,2 +1,2 @@
-Git test so fun!
+Git test so fun
 
